@@ -1,7 +1,7 @@
 {
     "name": "ptastrus/tcpdf-laravel",
     "description": "tcpdf support for Laravel 6, 7, 8, 9, 10, 11",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT",
     "keywords": [
         "laravel",
